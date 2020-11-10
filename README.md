@@ -1,3 +1,13 @@
+# ----------------------------------------------------------------------
+# DEMO
+# ----------------------------------------------------------------------
+
+Using reducers, localStorage and custom Hooks. Just add a task, and click on one of them if you've completed it!
+
+https://jomavazquez.github.io/react-usereducers/
+
+# ----------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
