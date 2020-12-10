@@ -2,7 +2,7 @@
 
 Using reducers, localStorage and custom Hooks. Just add a task, and click on one of them if you've completed it!
 
-https://jomavazquez.github.io/react-usereducers/
+https://react-usereducers.vercel.app/
 
 # Getting Started with Create React App
 
